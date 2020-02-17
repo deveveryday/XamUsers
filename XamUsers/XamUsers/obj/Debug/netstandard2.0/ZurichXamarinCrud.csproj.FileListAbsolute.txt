@@ -1,0 +1,11 @@
+C:\Users\artur.justino\source\repos\ZurichXamarinCrud\ZurichXamarinCrud\ZurichXamarinCrud\bin\Debug\netstandard2.0\ZurichXamarinCrud.deps.json
+C:\Users\artur.justino\source\repos\ZurichXamarinCrud\ZurichXamarinCrud\ZurichXamarinCrud\bin\Debug\netstandard2.0\ZurichXamarinCrud.dll
+C:\Users\artur.justino\source\repos\ZurichXamarinCrud\ZurichXamarinCrud\ZurichXamarinCrud\bin\Debug\netstandard2.0\ZurichXamarinCrud.pdb
+C:\Users\artur.justino\source\repos\ZurichXamarinCrud\ZurichXamarinCrud\ZurichXamarinCrud\obj\Debug\netstandard2.0\ZurichXamarinCrud.csprojAssemblyReference.cache
+C:\Users\artur.justino\source\repos\ZurichXamarinCrud\ZurichXamarinCrud\ZurichXamarinCrud\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\artur.justino\source\repos\ZurichXamarinCrud\ZurichXamarinCrud\ZurichXamarinCrud\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\artur.justino\source\repos\ZurichXamarinCrud\ZurichXamarinCrud\ZurichXamarinCrud\obj\Debug\netstandard2.0\ZurichXamarinCrud.AssemblyInfoInputs.cache
+C:\Users\artur.justino\source\repos\ZurichXamarinCrud\ZurichXamarinCrud\ZurichXamarinCrud\obj\Debug\netstandard2.0\ZurichXamarinCrud.AssemblyInfo.cs
+C:\Users\artur.justino\source\repos\ZurichXamarinCrud\ZurichXamarinCrud\ZurichXamarinCrud\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\artur.justino\source\repos\ZurichXamarinCrud\ZurichXamarinCrud\ZurichXamarinCrud\obj\Debug\netstandard2.0\ZurichXamarinCrud.dll
+C:\Users\artur.justino\source\repos\ZurichXamarinCrud\ZurichXamarinCrud\ZurichXamarinCrud\obj\Debug\netstandard2.0\ZurichXamarinCrud.pdb

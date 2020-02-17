@@ -1,0 +1,11 @@
+C:\Users\artur.justino\source\repos\XamUsers\XamUsers\XamUsers\bin\Debug\netstandard2.0\XamUsers.deps.json
+C:\Users\artur.justino\source\repos\XamUsers\XamUsers\XamUsers\bin\Debug\netstandard2.0\XamUsers.dll
+C:\Users\artur.justino\source\repos\XamUsers\XamUsers\XamUsers\bin\Debug\netstandard2.0\XamUsers.pdb
+C:\Users\artur.justino\source\repos\XamUsers\XamUsers\XamUsers\obj\Debug\netstandard2.0\XamUsers.csprojAssemblyReference.cache
+C:\Users\artur.justino\source\repos\XamUsers\XamUsers\XamUsers\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\artur.justino\source\repos\XamUsers\XamUsers\XamUsers\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\artur.justino\source\repos\XamUsers\XamUsers\XamUsers\obj\Debug\netstandard2.0\XamUsers.AssemblyInfoInputs.cache
+C:\Users\artur.justino\source\repos\XamUsers\XamUsers\XamUsers\obj\Debug\netstandard2.0\XamUsers.AssemblyInfo.cs
+C:\Users\artur.justino\source\repos\XamUsers\XamUsers\XamUsers\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\artur.justino\source\repos\XamUsers\XamUsers\XamUsers\obj\Debug\netstandard2.0\XamUsers.dll
+C:\Users\artur.justino\source\repos\XamUsers\XamUsers\XamUsers\obj\Debug\netstandard2.0\XamUsers.pdb
